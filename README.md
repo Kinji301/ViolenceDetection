@@ -66,6 +66,7 @@ No Video should be longer than 1-2 minutes unless your glad to be waiting for lo
    pip install -r requirements.txt
 
 4. Set Up Environment Variables
+
    Create a .env file in the root directory:
    ```sh
    GMAIL_USER=your_email@gmail.com
