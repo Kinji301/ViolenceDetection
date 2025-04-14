@@ -25,6 +25,7 @@ ViolenceDetectionProject/
 ├── violence_log.db # SQLite database for alerts 
 ├── video_logs.db # SQLite database for uploads  
 
+---
 ## 💡 Features
 
 - 🔍 Real-time violence detection using a CNN+LSTM model
@@ -36,6 +37,9 @@ ViolenceDetectionProject/
 - 🔄 Clear alerts and video logs via dashboard buttons
 
 ---
+## ⚠️ Warning 
+
+No Video should be longer than 1-2 minutes unless your glad to be waiting for long duration. Only recomended for CCTV videos. So I would advise downloading a video from youtube and trim  the video to 1-2 minutes of cctv video of non violence and violence to see each other confidence score.  
 
 ## 🚀 How to Run
 
