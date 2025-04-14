@@ -52,9 +52,9 @@ No Video should be longer than 1-2 minutes unless your glad to be waiting for lo
 ## 🚀 How to Run
 
 1. **Clone the Repo**
-   
-   git clone https://github.com/your-username/ViolenceDetectionProject.git
-   cd ViolenceDetectionProject
+   ---sh
+   $ git clone https://github.com/your-username/ViolenceDetectionProject.git
+   $ cd ViolenceDetectionProject
 
 2. Create Virtual Environment
 
