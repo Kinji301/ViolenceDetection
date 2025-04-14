@@ -7,6 +7,7 @@ https://docs.google.com/document/d/113JFm0zco2PDZAm0P-HZXboHkkWH0mBYluFgqkvcM9U/
 
 ## 📂 Project Structure
 ViolenceDetectionProject/  
+...
 ├── app.py # Flask backend 
 ├── detect.py # Violence detection logic 
 ├── init_db.py # SQLite database setup 
@@ -24,7 +25,7 @@ ViolenceDetectionProject/
 ├── captures/ # Saved violent frames 
 ├── violence_log.db # SQLite database for alerts 
 ├── video_logs.db # SQLite database for uploads  
-
+...
 .
 └── my-project/
     ├── src/
