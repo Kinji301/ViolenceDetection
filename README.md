@@ -69,7 +69,7 @@ python init_db.py
 
 6. Run the App
 
-🛠 Built With
+## 🛠 Built With
 Python
 
 Flask
