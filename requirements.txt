@@ -1,0 +1,8 @@
+Flask
+opencv-python
+numpy
+tensorflow
+h5py
+
+python-dotenv
+
