@@ -58,6 +58,7 @@ pip install -r requirements.txt
 Create a .env file in the root directory:
 
 GMAIL_USER=your_email@gmail.com
+
 GMAIL_PASS=your_app_password
 
 ⚠️ If using Gmail, enable 2FA and generate an App Password: Google App Passwords
