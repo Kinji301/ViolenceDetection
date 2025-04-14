@@ -44,7 +44,7 @@ ViolenceDetectionProject/
 git clone https://github.com/your-username/ViolenceDetectionProject.git
 cd ViolenceDetectionProject
 
-3. Create Virtual Environment
+2. Create Virtual Environment
 
 python3 -m venv venv
 source venv/bin/activate
