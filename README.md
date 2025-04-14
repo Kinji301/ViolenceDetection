@@ -69,6 +69,22 @@ python init_db.py
 
 6. Run the App
 
+🛠 Built With
+Python
+
+Flask
+
+OpenCV
+
+TensorFlow
+
+SQLite
+
+HTML/CSS
+
+JavaScript (AJAX)
+
+
 python app.py
 
 Then open your browser and go to:
