@@ -56,31 +56,31 @@ No Video should be longer than 1-2 minutes unless your glad to be waiting for lo
    $ git clone https://github.com/your-username/ViolenceDetectionProject.git
    $ cd ViolenceDetectionProject
 
-1. Create Virtual Environment
-
+2. Create Virtual Environment
+   ```sh
    python3 -m venv venv
    source venv/bin/activate
 
-2. Install Dependencies
-
+3. Install Dependencies
+   ```sh
    pip install -r requirements.txt
 
-3. Set Up Environment Variables
-
+4. Set Up Environment Variables
+   ```sh
    Create a .env file in the root directory:
 
    GMAIL_USER=your_email@gmail.com
 
    GMAIL_PASS=your_app_password
-
+-----
    ⚠️ If using Gmail, enable 2FA and generate an App Password: Google App Passwords
 
 4. Initialize Databases
-
+   ```sh
    python init_db.py
 
 7. Run the App
-
+   ```sh
    python app.py
 
    Then open your browser and go to:
