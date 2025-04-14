@@ -41,38 +41,38 @@ ViolenceDetectionProject/
 
 1. **Clone the Repo**
    
-git clone https://github.com/your-username/ViolenceDetectionProject.git
-cd ViolenceDetectionProject
+   git clone https://github.com/your-username/ViolenceDetectionProject.git
+   cd ViolenceDetectionProject
 
 2. Create Virtual Environment
 
-python3 -m venv venv
-source venv/bin/activate
+   python3 -m venv venv
+   source venv/bin/activate
 
 3. Install Dependencies
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Set Up Environment Variables
 
-Create a .env file in the root directory:
+   Create a .env file in the root directory:
 
-GMAIL_USER=your_email@gmail.com
+   GMAIL_USER=your_email@gmail.com
 
-GMAIL_PASS=your_app_password
+   GMAIL_PASS=your_app_password
 
-⚠️ If using Gmail, enable 2FA and generate an App Password: Google App Passwords
+   ⚠️ If using Gmail, enable 2FA and generate an App Password: Google App Passwords
 
 5. Initialize Databases
 
-python init_db.py
+   python init_db.py
 
 6. Run the App
 
-python app.py
+   python app.py
 
-Then open your browser and go to:
-http://127.0.0.1:5000
+   Then open your browser and go to:
+   http://127.0.0.1:5000
 
 
 ## 🛠 Built With
