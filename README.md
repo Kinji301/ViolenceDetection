@@ -98,17 +98,17 @@ JavaScript (AJAX)
 
 ### 🏠 Home Page (Percepta Intro)
 Shows branding and introduction to the system.
-![Home Screenshot](static/home_page.png)
+![Home Screenshot](lk/home_page.png)
 
 ### 📊 Dashboard
 Displays three video feeds (violent, non-violent, uploaded) with real-time confidence scores.
-![Dashboard Screenshot](static/dashboard.png)
+![Dashboard Screenshot](lk/dashboard.png)
 
 ### 🚨 Alerts Tab
 Logs detected violence events with captured frame, confidence score, and timestamp.
-![Alerts Screenshot](static/alerts_tab.png)
+![Alerts Screenshot](lk/alerts_tab.png)
 
 ### 🎞️ Video Logs
 Lists all uploaded videos and their classification (violent or non-violent).
-![Video Logs Screenshot](static/video_logs.png)
+![Video Logs Screenshot](lk/video_logs.png)
 
