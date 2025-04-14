@@ -69,6 +69,12 @@ python init_db.py
 
 6. Run the App
 
+python app.py
+
+Then open your browser and go to:
+http://127.0.0.1:5000
+
+
 ## 🛠 Built With
 Python
 
@@ -85,7 +91,3 @@ HTML/CSS
 JavaScript (AJAX)
 
 
-python app.py
-
-Then open your browser and go to:
-http://127.0.0.1:5000
