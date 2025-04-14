@@ -49,6 +49,8 @@ ViolenceDetectionProject/
 
 No Video should be longer than 1-2 minutes unless your glad to be waiting for long duration. Only recomended for CCTV videos. So I would advise downloading a video from youtube and trim  the video to 1-2 minutes of cctv video of non violence and violence to see each other confidence score.  
 
+---
+
 ## 🚀 How to Run
 
 1. **Clone the Repo**
