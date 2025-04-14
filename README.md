@@ -25,18 +25,18 @@ ViolenceDetectionProject/
 ├── violence_log.db # SQLite database for alerts 
 ├── video_logs.db # SQLite database for uploads  
 
-ViolenceDetection/
-├── alerts.html
-├── app.py
-├── dashboard.html
-├── detect.py
-├── home.html
-├── init_db.py
-├── requirements.txt
-├── style.css
-├── videologs.html
-└── README.md
----
+.
+├── ViolenceDetection/
+├── ├── alerts.html
+├── ├── app.py
+├── ├── dashboard.html
+├── ├── detect.py
+├── ├── home.html
+├── ├── init_db.py
+├── ├── requirements.txt
+├── ├── style.css
+├── ├── videologs.html
+└── └── README.md---
 ## 💡 Features
 
 - 🔍 Real-time violence detection using a CNN+LSTM model
