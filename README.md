@@ -39,12 +39,12 @@ ViolenceDetectionProject/
 
 ## 🚀 How to Run
 
-1. Clone the Repo**
-
+1. **Clone the Repo**
+   
 git clone https://github.com/your-username/ViolenceDetectionProject.git
 cd ViolenceDetectionProject
 
-2. Create Virtual Environment
+3. Create Virtual Environment
 
 python3 -m venv venv
 source venv/bin/activate
