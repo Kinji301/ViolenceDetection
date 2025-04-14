@@ -25,6 +25,17 @@ ViolenceDetectionProject/
 ├── violence_log.db # SQLite database for alerts 
 ├── video_logs.db # SQLite database for uploads  
 
+
+my-project/
+├── src/
+│   ├── main.js
+│   └── utils.js
+├── test/
+│   └── main.test.js
+├── README.md
+└── package.json
+
+
 ---
 ## 💡 Features
 
