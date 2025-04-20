@@ -6,34 +6,22 @@ https://docs.google.com/document/d/113JFm0zco2PDZAm0P-HZXboHkkWH0mBYluFgqkvcM9U/
 ---
 
 ## 📂 Project Structure
-ViolenceDetectionProject/  
-...
-├── app.py # Flask backend 
-├── detect.py # Violence detection logic 
-├── init_db.py # SQLite database setup 
-├── model.h5 # Trained TensorFlow model 
-├── requirements.txt # Python dependencies 
-├── templates/ 
-├── home.html # Welcome page    │
-│── dashboard.html # Live + uploaded video analysis  │
-├── alerts.html # Email alerts & violent incidents   │
-│── videologs.html # List of uploaded videos & status  │
-├── static/ 
-├── style.css # Frontend styling │
-│── videos/ # Preloaded violent & non-violent videos 
-├── uploads/ # User-uploaded video clips 
-├── captures/ # Saved violent frames 
-├── violence_log.db # SQLite database for alerts 
-├── video_logs.db # SQLite database for uploads  
-...
-.
-└── my-project/
-    ├── src/
-    │   ├── index.html
-    │   └── my-project.scss
-    └── build/
-        ├── index.html
-        └── my-project.css
+```
+├── ViolenceDetectionProject
+│   ├── Templates
+│   ├── __pycache__
+│   ├── app.py
+│   ├── captures
+│   ├── detect.py
+│   ├── init_db.py
+│   ├── lk
+│   ├── model.h5
+│   ├── requirements.txt
+│   ├── static
+│   ├── venv
+│   ├── video_logs.db
+│   └── violence_log.db
+```
 
 ## 💡 Features
 
