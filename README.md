@@ -36,7 +36,7 @@ https://drive.google.com/drive/folders/1EHjW2zuPigaluKGh0MK6NG4_gt8efNEv?usp=dri
 ---
 ## ⚠️ Warning 
 
-No Video should be longer than 1-2 minutes unless your glad to be waiting for long duration. Only recomended for CCTV videos. So I would advise downloading a video from youtube and trim  the video to 1-2 minutes of cctv video of non violence and violence to see each other confidence score. 
+No Video should be longer than 1-2 minutes unless your glad to be waiting for long duration. Only recomended for CCTV videos. So I would advise downloading a video from youtube and trim  the video to 1-2 minutes of cctv video of non violence and violence to see each other confidence score. Still in Develop stage of doing anytype of videos but at the moment CCTV videos are only recommended. 
 
 ---
 
