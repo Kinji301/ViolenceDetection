@@ -1,6 +1,6 @@
 # Percepta: Real-Time Violence Detection System
 
-https://docs.google.com/document/d/113JFm0zco2PDZAm0P-HZXboHkkWH0mBYluFgqkvcM9U/edit?usp=sharing
+https://drive.google.com/drive/folders/1EHjW2zuPigaluKGh0MK6NG4_gt8efNEv?usp=drive_link : H5 file to run the code 
 
 **Percepta** is an advanced AI-powered surveillance system designed to detect violent activities in video streams. Using a deep learning model and a Flask web application, Percepta analyzes live or uploaded video files to determine whether violence is present and provides confidence scores alongside visual alerts and email notifications.
 ---
